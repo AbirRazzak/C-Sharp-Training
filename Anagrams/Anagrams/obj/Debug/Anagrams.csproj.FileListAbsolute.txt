@@ -1,0 +1,6 @@
+D:\GitHub\C-Sharp-Training\Anagrams\Anagrams\bin\Debug\Anagrams.exe.config
+D:\GitHub\C-Sharp-Training\Anagrams\Anagrams\bin\Debug\Anagrams.exe
+D:\GitHub\C-Sharp-Training\Anagrams\Anagrams\bin\Debug\Anagrams.pdb
+D:\GitHub\C-Sharp-Training\Anagrams\Anagrams\obj\Debug\Anagrams.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Sharp-Training\Anagrams\Anagrams\obj\Debug\Anagrams.exe
+D:\GitHub\C-Sharp-Training\Anagrams\Anagrams\obj\Debug\Anagrams.pdb
