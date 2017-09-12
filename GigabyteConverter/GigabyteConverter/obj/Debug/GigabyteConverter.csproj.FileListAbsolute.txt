@@ -1,0 +1,8 @@
+D:\GitHub\C-Sharp-Training\GigabyteConverter\GigabyteConverter\bin\Debug\GigabyteConverter.exe.config
+D:\GitHub\C-Sharp-Training\GigabyteConverter\GigabyteConverter\bin\Debug\GigabyteConverter.exe
+D:\GitHub\C-Sharp-Training\GigabyteConverter\GigabyteConverter\bin\Debug\GigabyteConverter.pdb
+D:\GitHub\C-Sharp-Training\GigabyteConverter\GigabyteConverter\obj\Debug\GigabyteConverter.Properties.Resources.resources
+D:\GitHub\C-Sharp-Training\GigabyteConverter\GigabyteConverter\obj\Debug\GigabyteConverter.csproj.GenerateResource.Cache
+D:\GitHub\C-Sharp-Training\GigabyteConverter\GigabyteConverter\obj\Debug\GigabyteConverter.exe
+D:\GitHub\C-Sharp-Training\GigabyteConverter\GigabyteConverter\obj\Debug\GigabyteConverter.pdb
+D:\GitHub\C-Sharp-Training\GigabyteConverter\GigabyteConverter\obj\Debug\GigabyteConverter.Form1.resources
