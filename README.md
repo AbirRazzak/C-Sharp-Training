@@ -1,5 +1,5 @@
 # C-Sharp-Training
-A collection of individual projects utilizing C# in an attempt to learn the language through experiential learning.
+A collection of individual projects utilizing C# in an attempt to learn the language through experiential learning. Used as practice to help me prepare for my first co-op/internship at Susquehanna International Group.
 
 **_Project 1:_** Anagrams - Simple anagram console program that takes 2 strings and tells the user if they are anagrams of each other.
 
