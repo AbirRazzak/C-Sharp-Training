@@ -71,7 +71,7 @@ namespace Discord_Bot
                 new String[]{"!test",   "Bot is working"},
                 new String[]{"!plug",   "https://plug.dj/-9024781283140214337"},
                 new String[]{"!poe",    "@Guano wanna play PoE LUL"},
-                new String[]{"!no",     "Fuck off Abir"},
+                new String[]{"!no",     "No thanks, Abir"},
                 new String[]{"!hello",  "Hi!"}
             };
                         
